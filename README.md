@@ -27,7 +27,7 @@
 
 #### Things to do to get the project up and running
 
-* Unzip the attachment.
+* Download the project as Zip file or git clone the repo.
 * Import the project as Maven in any IDE.
 * Maven refresh;
     * mvn clean install;
